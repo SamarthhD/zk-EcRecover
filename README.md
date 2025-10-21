@@ -1,8 +1,8 @@
-# ecrecover-dsa in Noir
+# EcRecover-dsa in Noir
 
 ## Description
 
-`ecrecover-dsa` is a Zero-Knowledge (ZK) circuit in **Noir** that proves ownership of an Ethereum address using a signature **without revealing your private key**.  
+`EcRecover-dsa` is a Zero-Knowledge (ZK) circuit in **Noir** that proves ownership of an Ethereum address using a signature **without revealing your private key**.  
 
 - **Proving** → “I own this Ethereum address / I created this signature.”  
 - **Hiding** → Private key, signature, and optionally the message.  
